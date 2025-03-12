@@ -1,9 +1,10 @@
 ### 🫠 MSc Game Technology Student aspiring to become a full-stack IT wizard & Game Developer. 🪄⚔️
 
-🌱 I’m at my 1st semester and currently learning:
-1. Games & Culture
-2. Game Programming 
-3. Making Games
+🌱 I’m at my 2nd semester and currently learning:
+1. Games World Design 🌍
+2. Graphics Programming 🖼️
+3. Data Driven Design & Development 📅
+4. How to Make Almost Anything (Electronic Engineering) ⚡
 
 _Besides studying IT, I also volunteer at several social university organizations. I contribute by creating/helping prepare events, managing budgets/accounts, and inspiring other unsure students to participate in the social groups at the IT University of Copenhagen!_
 
